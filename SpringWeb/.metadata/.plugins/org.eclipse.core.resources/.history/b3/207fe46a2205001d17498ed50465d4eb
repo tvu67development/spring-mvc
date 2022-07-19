@@ -1,0 +1,5 @@
+package DiamondShop.UserController;
+@Controller
+public class HomeController {
+
+}

@@ -1,0 +1,4 @@
+//com.springsource.config.ui.prefs.activePageIndex\:/DemoSpringMVC/src/main/webapp/WEB-INF/demo-config-servlet.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/DiamonShop/src/main/webapp/WEB-INF/demo-config-servlet.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/DiamonShop/src/main/webapp/WEB-INF/diamond-config-servlet.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+eclipse.preferences.version=1
